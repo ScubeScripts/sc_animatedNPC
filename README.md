@@ -14,5 +14,5 @@ Clone or download this repository
 Add sc_animatedNPC to your resources directory
 Add this in your server.cfg :
 ```
-ensure sc_phonetax
+ensure sc_animatedNPC
 ```
