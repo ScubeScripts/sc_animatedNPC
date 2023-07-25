@@ -1,6 +1,6 @@
 # sc_animatedNPC
 
-This resource lets you spawn animated NPCs all over the map.
+With this script, you can create NPCS with different animations or armaments on your FiveM server.
 
 The script is configurable.
 
