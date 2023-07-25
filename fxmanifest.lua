@@ -3,13 +3,10 @@ game 'gta5'
 
 name "Animated NPC"
 author "Scube Scripts"
-version "1.2"
-description "Spawn NPC all over the map with animations"
+version "1.0.2"
+description "With this script, you can create NPCS with different animations or armaments on your FiveM server."
 
 client_scripts {
-
-	'peds_config.lua', -- Don't touch
-	'main_peds.lua', -- Don't touch
-	
-	
+	'peds_config.lua',
+	'main_peds.lua',
 }
