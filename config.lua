@@ -8,7 +8,7 @@
 Config = {}
 
 -- The distance at which NPCs will be spawned/despawned
-Config.SpawnDistance = 400
+Config.SpawnDistance = 200
 
 Config.Peds = {
 
