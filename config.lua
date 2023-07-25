@@ -14,7 +14,7 @@ Config.Peds = {
 
 --------------------------------------Examples--------------------------------------
 {
- 	model = 'u_f_y_dancerave_01',  -- NPC Model -> https://wiki.rage.mp/index.php?title=Peds
+ 	model = 'u_f_y_dancerave_01',  -- NPC Model -> https://docs.fivem.net/docs/game-references/ped-models/
  	animation = {
  		dict = 'anim@amb@nightclub@dancers@solomun_entourage@', -- NPC Animation Header
  		name = 'mi_dance_facedj_17_v1_female^1', -- NPC Animation -> https://alexguirre.github.io/animations-list/
