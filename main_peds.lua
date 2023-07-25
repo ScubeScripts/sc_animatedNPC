@@ -1,6 +1,3 @@
--------------------------------------------------------------------- CREATE PEDS -------------------------------------------------------------------
-
-
 function IsNearby(playerCoords, pedCoords)
 	return #(playerCoords - vector3(pedCoords.x, pedCoords.y, pedCoords.z)) <= Config.SpawnDistance
 end
