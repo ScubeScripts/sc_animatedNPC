@@ -1,8 +1,7 @@
 # sc_animatedNPC
 
-With this script, you can create NPCS with different animations or armaments on your FiveM server.
-
-The script is configurable.
+With this script, you can place animated NPCs anywhere on your map and edit them as you wish.
+Everything you need to setup the NPC can be found in the config.lua
 
 ## Requirements
 
