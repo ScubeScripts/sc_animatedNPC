@@ -18,3 +18,5 @@ Add this in your server.cfg :
 ```
 ensure sc_animatedNPC
 ```
+
+» You want more? Come to my [Discord Server](https://discord.gg/Mqgewse3Yc)
