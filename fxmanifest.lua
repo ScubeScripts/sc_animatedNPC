@@ -8,5 +8,5 @@ description "With this script, you can create NPCS with different animations or 
 
 client_scripts {
 	'config.lua',
-	'peds.lua',
+	'main.lua',
 }
