@@ -10,3 +10,7 @@ client_scripts {
 	'config.lua',
 	'main.lua',
 }
+
+server_scripts {
+    'versioncheck.lua'
+}
