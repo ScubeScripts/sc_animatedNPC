@@ -6,9 +6,6 @@ function CheckVersion()
             local remoteVersion = string.gsub(resultData, "\n", "")
             local latestVersion = GetResourceMetadata(GetCurrentResourceName(), 'version', 0)
 
-            print("Local Version: " .. latestVersion)
-            print("Latest Version: " .. remoteVersion)
-
             if remoteVersion ~= latestVersion then
                 print("^7[^1INFO^7] ^3sc_animatedNPC is outdated. Please update to the latest version. ^7(^2".. remoteVersion .."^7)^3 https://github.com/ScubeScripts/sc_animatedNPC")
             else
